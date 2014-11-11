@@ -1,0 +1,7 @@
+slope intercept
+plain   6.000 -23.783
+shadow   1.309  -3.786
+transparency_light   3.606  62.771
+transparency_dark_1   1.405  -3.989
+transparency_dark_2   2.908  -7.309
+transparency_dark_3   0.000   0.000

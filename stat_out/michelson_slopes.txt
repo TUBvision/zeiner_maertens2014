@@ -1,0 +1,5 @@
+plain shadow transp_med transp_med_steep transp_dark transp_dark_steep
+if  244.2  200.4  886.3  495.5  318.8  272.6
+js  273.0  196.2 1039.0  629.9  309.5  270.7
+sk  269.3  183.5  921.2  570.1  283.1  245.5
+wd  264.4  179.8  724.0  506.4  260.0  222.1

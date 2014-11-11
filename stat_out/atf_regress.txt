@@ -1,0 +1,7 @@
+slope intercept rsq
+plain 177.171   4.510   1.000
+shadow  52.978   2.925   1.000
+transp_med  35.970 129.086   1.000
+transp_med_steep  72.121  97.739   1.000
+transp_dark  35.717  17.528   1.000
+transp_dark_steep  71.226  14.251   1.000
